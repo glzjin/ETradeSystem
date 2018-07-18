@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ETradeSystem:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ETradeSystem_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ETradeSystem/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ETradeSystem" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Spring-4.3.18.RELEASE" />
+          <element id="library" level="project" name="Spring MVC-4.3.18.RELEASE" />
+          <element id="library" level="project" name="Hibernate 5.2.16-5.2.16 (2)" />
+          <element id="library" level="project" name="mysql:mysql-connector-java:5.1.46" />
+          <element id="library" level="project" name="Java EE 6-Java EE 6" />
+          <element id="library" level="project" name="jstl:jstl:1.2" />
+          <element id="library" level="project" name="org.hibernate:hibernate-c3p0:5.3.1.Final" />
+          <element id="library" level="project" name="com.github.debop:hibernate-redis:2.4.0" />
+          <element id="library" level="project" name="Spring Security-3.2.5" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
