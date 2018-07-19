@@ -13,18 +13,18 @@ SQL文件：[1531889717013add8870454c9858dabc33a4e4231c](https://www.zhaoj.in/wp
 
 ### 二、运行环境
 
-1.Nginx 
-2.Mysql 
-3.Tomcat 
-4.Redis（可选）
+1. Nginx 
+2. Mysql 
+3. Tomcat 
+4. Redis（可选）
 
 ### 三、部署步骤
 
-1.确保上面的环境都已经安装好。 
-2.在 IDEA 里 build 成 war 给 tomcat 部署。 
-3.设置环境变量，然后重启 Tomcat。 [![](https://www.zhaoj.in/wp-content/uploads/2018/07/1531891365e9351729ca3502efb03d2a89ee8254b4-1024x586.png)](https://www.zhaoj.in/wp-content/uploads/2018/07/1531891365e9351729ca3502efb03d2a89ee8254b4.png) 
-4.在数据库里导入那个 SQL。 
-5.访问看看吧。
+1. 确保上面的环境都已经安装好。 
+2. 在 IDEA 里 build 成 war 给 tomcat 部署。 
+3. 设置环境变量，然后重启 Tomcat。 [![](https://www.zhaoj.in/wp-content/uploads/2018/07/1531891365e9351729ca3502efb03d2a89ee8254b4-1024x586.png)](https://www.zhaoj.in/wp-content/uploads/2018/07/1531891365e9351729ca3502efb03d2a89ee8254b4.png) 
+4. 在数据库里导入那个 SQL。 
+5. 访问看看吧。
 
 ### 四、演示地址
 
